@@ -3,7 +3,7 @@
 <!--
 **bhavesh16somnani/bhavesh16somnani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+I am Bhavesh Somnani. My main interest lies in Machine Learning and Deep Learning. I also have basic knowledge of PowerBI and Weka. I am always curious to learn something new.
 
 - 🔭 I’m currently working on Machine Learning project.
 - 🌱 I’m currently learning deep learning and natural language processing.
